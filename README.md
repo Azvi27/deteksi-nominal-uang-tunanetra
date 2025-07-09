@@ -69,8 +69,8 @@ Berikut adalah instruksi untuk menyiapkan sistem ini di Raspberry Pi Anda.
     ```
 
 2.  **Unduh Model & Data**
-    File `.pkl` (model) dan `.csv` (data) tidak disertakan di repository ini.
-    - **Unduh dari:** [**Kelompok Teknologi sensor - Google Drive**](PASTE_LINK_GOOGLE_DRIVE_ANDA_DI_SINI)
+    File `.pkl` (model) dan `.csv`  di repository ini.
+    - **Unduh dari:** [**Repository ini**]
     - **Petunjuk:** Letakkan semua file yang diunduh ke dalam folder `Kelompok Teknologi sensor/`.
 
 3.  **Install Dependensi Python**
